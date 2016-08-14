@@ -8,3 +8,7 @@ def second_commit():
 
 def third_commit():
     pass
+
+
+def fourth_commit():
+    pass
