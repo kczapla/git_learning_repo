@@ -4,3 +4,7 @@ def first_commit():
 
 def second_commit():
     pass
+
+
+def third_commit():
+    pass
